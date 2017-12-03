@@ -1,5 +1,5 @@
-Theme name:     Cam
-Description:    Custom theme by Cam
-Author name:    Cam Gould
-Author site:    http://camgould.com
-License:        http://licence.visualidiot.com
+Theme name:     encodan
+Description:    Light Anchor CMS theme using the Skeleton framework by Cam
+Author name:    Tormaid
+Author site:    http://encodan.info/
+License:        None
